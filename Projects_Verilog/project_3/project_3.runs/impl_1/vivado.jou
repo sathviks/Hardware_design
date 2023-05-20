@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat May 20 12:16:31 2023
+# Process ID: 10936
+# Current directory: D:/Projects_Verilog/project_3/project_3.runs/impl_1
+# Command line: vivado.exe -log and_gate.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source and_gate.tcl -notrace
+# Log file: D:/Projects_Verilog/project_3/project_3.runs/impl_1/and_gate.vdi
+# Journal file: D:/Projects_Verilog/project_3/project_3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source and_gate.tcl -notrace

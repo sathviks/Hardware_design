@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat May 20 15:59:58 2023
+# Process ID: 11372
+# Current directory: D:/Projects_Verilog/Fpga_design_flow_practice/Fpga_design_flow_practice.runs/impl_1
+# Command line: vivado.exe -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file: D:/Projects_Verilog/Fpga_design_flow_practice/Fpga_design_flow_practice.runs/impl_1/top.vdi
+# Journal file: D:/Projects_Verilog/Fpga_design_flow_practice/Fpga_design_flow_practice.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source top.tcl -notrace

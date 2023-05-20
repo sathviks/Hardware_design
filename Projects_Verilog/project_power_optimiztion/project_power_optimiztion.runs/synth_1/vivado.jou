@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat May 20 15:25:04 2023
+# Process ID: 9144
+# Current directory: D:/Projects_Verilog/project_power_optimiztion/project_power_optimiztion.runs/synth_1
+# Command line: vivado.exe -log bram_mux.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source bram_mux.tcl
+# Log file: D:/Projects_Verilog/project_power_optimiztion/project_power_optimiztion.runs/synth_1/bram_mux.vds
+# Journal file: D:/Projects_Verilog/project_power_optimiztion/project_power_optimiztion.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source bram_mux.tcl -notrace
